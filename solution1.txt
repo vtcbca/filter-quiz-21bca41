@@ -35,7 +35,7 @@ Ans: $ uniq -c Stud.csv
 Ans: $ tr [a-z] [A-Z] intro.txt
 
 13. Print  "VTCBB" as "VTBB".
-Ans: $ cut -c3 "VTCBB" "VTBB"
+Ans:
 
 14. Print "VTCBB" as "VTCD".
 Ans:  
